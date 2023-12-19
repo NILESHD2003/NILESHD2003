@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web/ Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://nileshdeshpande.onrender.com/](https://nileshdeshpande.onrender.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://nileshdeshpande.netlify.app/)
 
 - 💬 Ask me about **react, flutter, java**
 
