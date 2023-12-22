@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://nileshdeshpande.netlify.app/)
 
-- 💬 Ask me about **react, flutter, java**
+- 💬 Ask me about **Javascript, React(MERN), Flutter, Java**
 
 - 📫 How to reach me **nileshdeshpandework@gmail.com**
 
