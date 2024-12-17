@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Web/ Android Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://nileshdeshpande.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://nileshdeshpande.me/)
 
-- 💬 Ask me about **Javascript, React(MERN), Flutter, Java**
+- 💬 Ask me about **Javascript, React(MERN), Flutter**
 
 - 📫 How to reach me **nileshdeshpandework@gmail.com**
 
