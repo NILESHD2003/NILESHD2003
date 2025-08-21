@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ResumeX](https://github.com/NILESHD2003/ResumeX)
 
-- 🌱 I’m currently learning **Advanced backend architecture, system design, and DSA for high-scale applications and SDE interviews. Ask ChatGPT**
+- 🌱 I’m currently learning **Advanced backend architecture, system design, and DSA for high-scale applications and SDE interviews.**
 
 - 👨‍💻 All of my projects are available at [https://nileshdeshpande.dev/](https://nileshdeshpande.dev/)
 
